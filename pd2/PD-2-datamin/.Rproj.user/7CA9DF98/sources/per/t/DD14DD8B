@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544379279676.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DD14DD8B",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1544379279676,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BFB0E249",
+        "caption" : "hepatitis",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=hepatitis&cache_key=BFB0E249",
+        "displayedObservations" : "155",
+        "environment" : "",
+        "object" : "hepatitis",
+        "preview" : "0",
+        "totalObservations" : "155",
+        "variables" : "20"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

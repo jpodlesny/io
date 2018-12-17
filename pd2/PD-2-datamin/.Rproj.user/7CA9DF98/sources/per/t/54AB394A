@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544378918414.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "54AB394A",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1544378918414,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1E487687",
+        "caption" : "hepatitis.clear",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=hepatitis.clear&cache_key=1E487687",
+        "displayedObservations" : "155",
+        "environment" : "",
+        "object" : "hepatitis.clear",
+        "preview" : "0",
+        "totalObservations" : "155",
+        "variables" : "20"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
